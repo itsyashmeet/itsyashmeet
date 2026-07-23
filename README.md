@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/yashmeet-sodhi-705a78249">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/yashmeet-sodhi">
+<a href="https://github.com/itsyashmeet">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -176,7 +176,11 @@ Platform-specific SLA generator supporting Amazon, Flipkart, and Meesho sellers 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yashmeet-sodhi/yashmeet-sodhi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </div>
 
 <sub>⤷ The snake needs a one-time GitHub Actions setup — instructions below.</sub>
