@@ -151,16 +151,16 @@ Platform-specific SLA generator supporting Amazon, Flipkart, and Meesho sellers 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashmeet-sodhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmeet-sodhi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsyashmeet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashmeet&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmeet-sodhi&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsyashmeet&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashmeet-sodhi&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsyashmeet&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
@@ -168,7 +168,7 @@ Platform-specific SLA generator supporting Amazon, Flipkart, and Meesho sellers 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmeet-sodhi&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyashmeet&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <br/>
