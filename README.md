@@ -130,17 +130,14 @@ A platform-specific SLA document generator for Amazon, Flipkart, and Meesho sell
 </div>
 
 <br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
+
 <br/><br/>
 
 <div align="center">
 
 <sub>ANALYTICS</sub>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsyashmeet&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashmeet&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="165"/>
 
 <br/><br/>
 
@@ -151,7 +148,7 @@ A platform-specific SLA document generator for Amazon, Flipkart, and Meesho sell
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
