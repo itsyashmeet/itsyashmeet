@@ -37,7 +37,7 @@ AI-powered ERP for digital marketing agencies — clients, employees, campaigns,
 
 <br/><br/>
 
-<img src="assets/screenshots/trioos-ceo-dashboard.png" width="92%"/>
+<img src="trioos-ceo-dashboard.png" width="92%"/>
 
 </div>
 
@@ -53,7 +53,7 @@ A production-grade GST billing SaaS for Indian businesses — invoicing, invento
 
 <br/><br/>
 
-<img src="assets/screenshots/trio-billing.png" width="92%"/>
+<img src="trio-billing.png" width="92%"/>
 
 </div>
 
@@ -69,7 +69,7 @@ An AI-powered Amazon listing generator that automates product content creation a
 
 <br/><br/>
 
-<img src="assets/screenshots/trio-ai-listing.png" width="92%"/>
+<img src="trio-ai-listing.png" width="92%"/>
 
 </div>
 
@@ -89,7 +89,7 @@ A platform-specific SLA document generator for Amazon, Flipkart, and Meesho sell
 
 <br/><br/>
 
-<img src="assets/screenshots/sla-generator.png" width="92%"/>
+<img src="sla-generator.png" width="92%"/>
 
 </div>
 
@@ -139,7 +139,7 @@ A platform-specific SLA document generator for Amazon, Flipkart, and Meesho sell
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsyashmeet&show_icons=true&count_private=true&hide_border=true&theme=transparent&icon_color=8B5CF6&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsyashmeet&show_icons=true&theme=tokyonight" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashmeet&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="165"/>
 
 <br/><br/>
