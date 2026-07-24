@@ -1,146 +1,204 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1a1025&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a0f2e,100:8B5CF6&height=320&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
-# Yashmeet Sodhi
+<h1 align="center" style="font-size:56px;"><b>YASHMEET SODHI</b></h1>
 
-Full Stack Developer — building AI-powered SaaS products that automate real business workflows
-
-<sub>
-<a href="https://www.linkedin.com/in/yashmeet-sodhi-705a78249">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://github.com/itsyashmeet">GitHub</a> &nbsp;·&nbsp;
-<a href="mailto:yashmeetsodhi04@gmail.com">Email</a>
-</sub>
-
-</div>
-
-<br/>
-
-## About
-
-I design and build AI-driven SaaS platforms for e-commerce and digital marketing operations — from ERP systems to billing software to automated content generation.
-
-Currently building internal tools and AI-powered products at Trio India, combining software engineering with a business-first approach.
-
-Studying Computer Science at Manipal University Jaipur, with a focus on scalable system design, AI integration, and clean architecture.
-
-<br/>
-
-## Experience
-
-**Full Stack Developer** — Trio India E-commerce Services
-<sub>2026 — Present</sub>
-
-**Business Development Executive** — Trio India E-commerce Services
-<sub>2025 — 2026</sub>
-
-<br/>
-
-## Currently Building
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**TrioOS**
-AI-powered ERP for digital marketing agencies
-<sub>Next.js · TypeScript · Supabase</sub>
-
-<img src="assets/screenshots/trioos-ceo-dashboard.png" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-**Trio Billing**
-GST billing SaaS for Indian businesses
-<sub>Next.js 16 · React 19 · shadcn/ui</sub>
-
-<img src="assets/screenshots/trio-billing.png" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Trio AI Listing**
-AI-powered Amazon listing generator
-<sub>OpenAI API · Gemini API · Automation</sub>
-
-<img src="assets/screenshots/trio-ai-listing.png" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-**SLA Generator**
-Platform-specific SLA generator for marketplace sellers
-<sub>React · Vite · Vercel</sub>
-
-<img src="assets/screenshots/sla-generator.png" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Projects
-
-| Project | Description | Status |
-|---|---|---|
-| **TrioOS** | AI-powered ERP for client, employee, and campaign management | Private repository |
-| **Trio Billing** | GST-compliant invoicing and billing SaaS | Private repository |
-| **Trio AI Listing** | AI-generated Amazon product listings at scale | Private repository |
-| **SLA Generator** | Automated SLA documents for Amazon, Flipkart, Meesho sellers | [itsyashmeet/sla-generator](https://github.com/itsyashmeet) |
-
-<br/>
-
-## Stack
-
-| Frontend | Backend | Database | AI |
-|---|---|---|---|
-| React | Node.js | Supabase | OpenAI API |
-| Next.js | Express | PostgreSQL | Gemini API |
-| TypeScript | | MySQL | Prompt Engineering |
-| Tailwind CSS | | | |
-
-<div align="center">
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,supabase,postgres,mysql,git,github,vscode,figma,vercel&theme=dark" />
-</div>
-
-<br/>
-
-## Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsyashmeet&show_icons=true&count_private=true&hide_border=true&theme=transparent&icon_color=A78BFA&title_color=E9D5FF&text_color=C4B5FD&bg_color=00000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashmeet&layout=compact&hide_border=true&theme=transparent&title_color=E9D5FF&text_color=C4B5FD&bg_color=00000000" height="165"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=26&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI-powered+SaaS+products;Turning+business+chaos+into+clean+systems" alt="typing" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyashmeet&hide_border=true&bg_color=00000000&color=C4B5FD&line=A78BFA&point=E9D5FF&area=true&area_color=6D28D9" width="100%"/>
+<a href="https://www.linkedin.com/in/yashmeet-sodhi-705a78249"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/itsyashmeet"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+&nbsp;
+<a href="mailto:yashmeetsodhi04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsyashmeet&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
 
 </div>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
+<br/><br/>
 
 <div align="center">
+
+### <i>"I build the software I once had to work around."</i>
+
+<sub>FULL STACK DEVELOPER · TRIO INDIA E-COMMERCE &nbsp;&nbsp;|&nbsp;&nbsp; B.TECH CSE · MANIPAL UNIVERSITY JAIPUR &nbsp;&nbsp;|&nbsp;&nbsp; RAJASTHAN, INDIA</sub>
+
+</div>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8B5CF6&height=4&width=100%" width="100%"/>
+<br/><br/>
+
+<div align="center">
+
+<sub>THE JOURNEY</sub>
+
+<h3>Business Development Executive</h3>
+<sub>Trio India E-commerce · 2025</sub>
+
+<h2>↓</h2>
+
+<h3><b>Full Stack Developer</b></h3>
+<sub>Trio India E-commerce · 2026 — Present</sub>
+
+</div>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
+<br/><br/>
+
+<div align="center">
+
+<sub>PRODUCTS</sub>
+
+<h1>TrioOS</h1>
+
+AI-powered ERP for digital marketing agencies — clients, employees, campaigns, and marketplace operations in one workspace.
+
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> &nbsp; <img src="https://img.shields.io/badge/PRIVATE-8B5CF6?style=flat-square" valign="middle"/>
+
+<br/><br/>
+
+<img src="assets/screenshots/trioos-ceo-dashboard.png" width="92%"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<h1>Trio Billing</h1>
+
+A production-grade GST billing SaaS for Indian businesses — invoicing, inventory, and A4-ready document generation.
+
+<code>Next.js 16</code> <code>React 19</code> <code>shadcn/ui</code> &nbsp; <img src="https://img.shields.io/badge/PRIVATE-8B5CF6?style=flat-square" valign="middle"/>
+
+<br/><br/>
+
+<img src="assets/screenshots/trio-billing.png" width="92%"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<h1>Trio AI Listing</h1>
+
+An AI-powered Amazon listing generator that automates product content creation and bulk listing generation at scale.
+
+<code>OpenAI API</code> <code>Gemini API</code> <code>Automation</code> &nbsp; <img src="https://img.shields.io/badge/PRIVATE-8B5CF6?style=flat-square" valign="middle"/>
+
+<br/><br/>
+
+<img src="assets/screenshots/trio-ai-listing.png" width="92%"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<h1>SLA Generator</h1>
+
+A platform-specific SLA document generator for Amazon, Flipkart, and Meesho sellers, with automated filtering and export.
+
+<code>React</code> <code>Vite</code> <code>Vercel</code> &nbsp; <img src="https://img.shields.io/badge/LIVE-A78BFA?style=flat-square" valign="middle"/>
+
+<br/>
+
+<a href="https://github.com/itsyashmeet"><img src="https://img.shields.io/badge/REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+
+<br/><br/>
+
+<img src="assets/screenshots/sla-generator.png" width="92%"/>
+
+</div>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8B5CF6&height=4&width=100%" width="100%"/>
+<br/><br/>
+
+<div align="center">
+
+<sub>STACK</sub>
+
+<br/><br/>
+
+**FRONTEND**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
+
+<br/>
+
+**BACKEND**
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/>
+
+**DATABASE**
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark" />
+
+<br/>
+
+**AI**
+<img src="https://img.shields.io/badge/OPENAI-0D1117?style=for-the-badge&logo=openai&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/GEMINI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" />
+
+<br/><br/>
+
+**TOOLS**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" />
+
+</div>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
+<br/><br/>
+
+<div align="center">
+
+<sub>ANALYTICS</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsyashmeet&show_icons=true&count_private=true&hide_border=true&theme=transparent&icon_color=8B5CF6&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashmeet&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C4B5FD&bg_color=00000000" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyashmeet&hide_border=true&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6" width="100%"/>
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/itsyashmeet/itsyashmeet/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
+
 </div>
 
-<br/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:1a0f2e,100:0D1117&height=280&section=footer" width="100%"/>
 
 <div align="center">
 
-<sub>Always building. Always learning.</sub>
+<h2><b>Let's build something amazing.</b></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1025,100:0D0D0D&height=120&section=footer" width="100%"/>
+<a href="https://www.linkedin.com/in/yashmeet-sodhi-705a78249"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/itsyashmeet"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+&nbsp;
+<a href="mailto:yashmeetsodhi04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
