@@ -1,24 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a0f2e,100:8B5CF6&height=320&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a0f2e,100:8B5CF6&height=380&section=header&text=Yashmeet%20Sodhi&fontSize=52&fontColor=F5F3FF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20AI-powered%20SaaS%20products&descAlignY=54&descSize=17&descColor=C4B5FD" width="100%"/>
 
-<br/>
-
-<h1 align="center" style="font-size:56px;"><b>YASHMEET SODHI</b></h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=26&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI-powered+SaaS+products;Turning+business+chaos+into+clean+systems" alt="typing" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/yashmeet-sodhi-705a78249"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/itsyashmeet"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
-&nbsp;
-<a href="mailto:yashmeetsodhi04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=itsyashmeet&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/yashmeet-sodhi-705a78249"><img src="https://img.shields.io/badge/LINKEDIN-1a0f2e?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" /></a>
+<a href="https://github.com/itsyashmeet"><img src="https://img.shields.io/badge/GITHUB-1a0f2e?style=for-the-badge&logo=github&logoColor=C4B5FD" /></a>
+<a href="mailto:yashmeetsodhi04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0f2e?style=for-the-badge&logo=gmail&logoColor=C4B5FD" /></a>
+<img src="https://komarev.com/ghpvc/?username=itsyashmeet&label=PROFILE%20VIEWS&color=1a0f2e&style=for-the-badge" />
 
 </div>
 
@@ -36,24 +23,6 @@
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8B5CF6&height=4&width=100%" width="100%"/>
-<br/><br/>
-
-<div align="center">
-
-<sub>THE JOURNEY</sub>
-
-<h3>Business Development Executive</h3>
-<sub>Trio India E-commerce · 2025</sub>
-
-<h2>↓</h2>
-
-<h3><b>Full Stack Developer</b></h3>
-<sub>Trio India E-commerce · 2026 — Present</sub>
-
-</div>
-
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
 <br/><br/>
 
 <div align="center">
