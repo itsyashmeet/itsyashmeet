@@ -141,6 +141,11 @@ A platform-specific SLA document generator for Amazon, Flipkart, and Meesho sell
 
 <br/><br/>
 
+<img height="170" src="https://github-readme-stats-phww27chl-trio-india.vercel.app/api?username=itsyashmeet&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-phww27chl-trio-india.vercel.app/api/top-langs/?username=itsyashmeet&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyashmeet&hide_border=true&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6" width="100%"/>
 
 <br/><br/>
