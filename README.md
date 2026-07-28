@@ -33,22 +33,19 @@
 
 </div>
 
-I'm Yashmeet — a full stack developer at **Trio India E-Commerce Services**, a digital marketing and e-commerce agency in Kota, Rajasthan that serves D2C brands and marketplace sellers across Amazon, Flipkart, Meesho, and Myntra. I started at the company on the business-development side, which turned out to be the best possible training ground for the engineer I am now: I watched account managers fight the same manual, error-prone workflows every single day — SLA documents typed from scratch, invoices built in spreadsheets, Amazon listings written one field at a time — and instead of just living with it, I started building the software to replace it.
+I'm **Yashmeet Sodhi**, a **Full Stack Developer** at **Trio India E-Commerce Services** and a **B.Tech Computer Science** student at **Manipal University Jaipur**.
 
-That's still the core of how I think about engineering. I don't build features in the abstract; I build them because someone on the other side of the company is currently doing something painful by hand, and the fastest way to help them is a well-designed tool, not another workaround.
+I build scalable SaaS applications, internal business platforms, and AI-powered automation tools using **Next.js, React, TypeScript, Supabase, PostgreSQL, OpenAI, and Gemini**.
 
-**Engineering philosophy** — production-first, not portfolio-first. Every internal tool I ship is expected to survive real client data, real edge cases, and real deadlines on day one. I'd rather spend an extra day getting the data model right than ship something fast that breaks under the first messy CSV import.
+My primary focus is designing production-ready software that simplifies business operations, improves workflows, and solves real-world problems through clean architecture and practical AI integration.
 
+**Currently building:** TrioOS • Trio Billing • Trio AI Listing
 **Areas of expertise:**
 - Full-stack product engineering with Next.js, TypeScript, and Supabase
 - Internal business tooling / lightweight ERP systems for agencies and SMBs
 - AI-assisted content generation pipelines (OpenAI, Gemini) for e-commerce
 - Document generation systems (invoices, SLAs, proposals) with strict formatting requirements
 - Marketplace operations tooling for Amazon, Flipkart, and Meesho sellers
-
-**Current role:** Full Stack Developer at Trio India (previously Business Development Executive — the transition gave me a rare amount of direct context on what these tools actually need to do).
-
-**Current focus:** Shipping three internal/commercial products in parallel — TrioOS, Trio Billing, and Trio AI Listing — while finishing my B.Tech in Computer Science at Manipal University Jaipur.
 
 **Career objective:** To keep building software that removes real operational friction for small and mid-sized businesses, and to grow into a role where I'm architecting systems end-to-end — not just implementing screens, but owning the data model, the AI layer, and the deployment pipeline underneath them.
 
