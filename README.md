@@ -82,28 +82,6 @@ My primary focus is designing production-ready software that simplifies business
 | 📚 **Currently Learning** | Deepening Next.js 16 / React 19 patterns, Supabase RLS and edge functions, and more rigorous prompt-engineering techniques for structured AI output |
 | 🗺️ **Roadmap** | Consolidating TrioOS and Trio Billing under a shared design system, and hardening Trio AI Listing for higher-volume bulk generation |
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Currently Building**
-- ✔ TrioOS ERP
-- ✔ Trio Billing SaaS
-- ✔ Trio AI Listing
-
-</td>
-<td valign="top" width="50%">
-
-**Currently Learning**
-- ✔ Agentic AI
-- ✔ MCP (Model Context Protocol)
-- ✔ Multi-agent systems
-- ✔ Advanced RAG
-
-</td>
-</tr>
-</table>
-
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
 <br/><br/>
