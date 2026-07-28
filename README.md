@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a0f2e,100:8B5CF6&height=380&section=header&text=Yashmeet%20Sodhi&fontSize=52&fontColor=F5F3FF&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20AI-powered%20SaaS%20products&descAlignY=54&descSize=17&descColor=C4B5FD" width="100%"/>
 
 <a href="https://www.linkedin.com/in/yashmeet-sodhi-705a78249"><img src="https://img.shields.io/badge/LINKEDIN-1a0f2e?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" /></a>
