@@ -645,27 +645,6 @@ Replaced manual, spreadsheet-based SLA and client-management workflows with stru
 </details>
 
 <details>
-<summary><b>Business Development Executive — Trio India E-Commerce Services (Previous)</b></summary>
-<br/>
-
-**Responsibilities**
-- LinkedIn outreach and client acquisition for D2C brands across Rajasthan
-- Two-stage outreach sequences and formal proposal drafting for social media management packages
-- Designed WhatsApp chatbot flows (AiSensy) for re-engagement campaigns
-- Processed and merged Facebook/Meta lead-export CSVs into import-ready formats
-
-**Achievements**
-- Built a strong working knowledge of Amazon Seller Central India, SMM, and performance marketing fundamentals directly from client-facing work
-- That client-facing exposure directly shaped what TrioOS, Trio Billing, and the SLA Generator needed to do
-
-**Technologies used**
-AiSensy, CSV data processing, ReportLab (for client proposal PDFs)
-
-**Business impact**
-Directly informed the product requirements for every tool built afterward — the transition from BD to engineering wasn't a career pivot so much as a shift in how the same problems got solved.
-</details>
-
-<details>
 <summary><b>B.Tech Internship — NAV Design Creations</b></summary>
 <br/>
 
