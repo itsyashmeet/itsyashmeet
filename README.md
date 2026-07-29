@@ -311,41 +311,6 @@ Expand platform coverage as Trio onboards new marketplaces, and align its docume
 <br/><br/>
 
 <div align="center">
-<sub>SYSTEM DESIGN</sub>
-<h1>How I Architect Larger Applications</h1>
-</div>
-
-Across TrioOS, Trio Billing, and the AI Listing tool, I follow the same underlying architecture pattern: a Next.js App Router frontend, Supabase as the single source of truth for data and auth, and a clear separation between UI components, data-fetching logic, and business rules. Role-based access is enforced both at the middleware layer and again at the database layer via Row-Level Security, so no client-side check is ever the only line of defense.
-
-```mermaid
-flowchart TB
-    subgraph Client
-        UI[React Components]
-        State[Local/Server State]
-    end
-    subgraph Edge
-        MW[Auth Middleware]
-        RB[Role-Based Routing]
-    end
-    subgraph Backend
-        SB[(Supabase: Postgres + RLS)]
-        AI[AI Provider Layer<br/>OpenAI / Gemini]
-        DOC[Document Engine<br/>Invoices / SLAs]
-    end
-    UI --> State --> MW --> RB
-    RB --> SB
-    RB --> AI
-    RB --> DOC
-    SB -.RLS enforced.-> Backend
-```
-
-For data-heavy modules (like employee performance scoring or invoice generation), I keep the calculation logic outside of the UI layer entirely, so it can be unit-tested and reused across dashboard widgets, exports, and reports without duplication.
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8B5CF6&height=4&width=100%" width="100%"/>
-<br/><br/>
-
-<div align="center">
 <sub>TECHNICAL SKILLS</sub>
 <h1>Stack &amp; Tooling</h1>
 </div>
