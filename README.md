@@ -578,29 +578,6 @@ AI-assisted lead generation tooling, sales outreach automation
 </details>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
-<br/><br/>
-
-<div align="center">
-<sub>DEVELOPMENT WORKFLOW</sub>
-<h1>How I Ship</h1>
-</div>
-
-```mermaid
-flowchart LR
-    A[Identify Operational Pain Point] --> B[Define Milestone Scope]
-    B --> C[Schema & Data Model First]
-    C --> D[Build Reusable Components]
-    D --> E[Wire Business Logic]
-    E --> F[Manual QA Against Real Data]
-    F --> G[Deploy - Vercel]
-    G --> H[Observe Real Usage]
-    H -->|Feedback| B
-```
-
-I scope every product into small, independently shippable milestones (visible directly in how Trio Billing was built: Auth → Dashboard → Customers → Items → Invoices). Each milestone is tested against real client data before moving to the next, rather than building the full app speculatively and debugging at the end.
-
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8B5CF6&height=4&width=100%" width="100%"/>
 <br/><br/>
 
