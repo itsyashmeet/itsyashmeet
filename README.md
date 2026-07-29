@@ -129,20 +129,6 @@ A unified, role-aware platform with dedicated modules for clients, employees, an
 **Tech Stack**
 Next.js · TypeScript · Supabase (Postgres, Auth, Row-Level Security) · Tailwind CSS · shadcn/ui
 
-**Architecture Overview**
-
-```mermaid
-flowchart LR
-    A[Next.js App Router] --> B[Auth Middleware]
-    B --> C{Role Check}
-    C -->|Admin/CEO| D[Executive Dashboard]
-    C -->|Team Leader| E[Team Module]
-    C -->|Employee| F[Personal Workspace]
-    D & E & F --> G[Supabase Client]
-    G --> H[(Postgres + RLS)]
-    G --> I[Realtime Notifications]
-```
-
 **Key Challenges Solved**
 - Supabase foreign-key joins using `table!fkey` syntax were failing silently in production. The reliable fix was decomposing the query — fetching related rows separately and merging them manually in application code, rather than trusting the implicit join.
 - A recurring "nested `DialogContent`" bug was breaking the Client Import modal; resolved by flattening the modal composition instead of nesting dialog primitives.
@@ -193,23 +179,6 @@ A focused, modern billing app: clean auth and dashboard shell first, then Custom
 **Tech Stack**
 Next.js 16 · React 19 · TypeScript · Tailwind CSS · shadcn/ui · Supabase
 
-**Architecture Overview — Billing Workflow**
-
-```mermaid
-sequenceDiagram
-    participant U as User
-    participant D as Dashboard
-    participant S as Supabase
-    participant I as Invoice Engine
-    U->>D: Create Customer / Item
-    D->>S: Persist record (RLS-scoped)
-    U->>D: Generate Invoice
-    D->>I: Compile line items + GST rules
-    I->>S: Fetch customer + item data
-    I-->>D: Rendered A4 invoice
-    D-->>U: Print / Export / Send
-```
-
 **Key Challenges Solved**
 - Replicating a pixel-precise reference invoice header using pure flexbox (right-aligned contact details, vertical separators) without hardcoding fragile absolute positioning.
 - Structuring the schema so Customers, Items, and Invoices could each ship as an independent milestone without rework once the next module landed.
@@ -257,20 +226,6 @@ A structured AI pipeline that takes product attributes as input and returns mark
 
 **Tech Stack**
 OpenAI API · Gemini API · Automation/scripting layer
-
-**Architecture Overview**
-
-```mermaid
-flowchart TD
-    A[Product Attribute Input] --> B[Prompt Template Builder]
-    B --> C{Provider Router}
-    C -->|Primary| D[OpenAI API]
-    C -->|Fallback| E[Gemini API]
-    D & E --> F[Structured JSON Output]
-    F --> G[Validation Layer]
-    G -->|Pass| H[Listing Ready for Upload]
-    G -->|Fail| B
-```
 
 **Key Challenges Solved**
 - Getting consistent, structured output from a generative model reliably enough to skip manual review on every single listing — solved by strict prompt templating and output validation rather than trusting free-form generation.
@@ -323,19 +278,6 @@ A React app where a user selects the relevant platform(s), fills in per-field de
 
 **Tech Stack**
 React · Vite · Vercel
-
-**Architecture Overview**
-
-```mermaid
-flowchart LR
-    A[Platform Selection] --> B{anyPlatformSelected?}
-    B -->|No| A
-    B -->|Yes| C[Field Editor - useState]
-    C --> D[Additional Charges]
-    C --> E[Payment Schedule]
-    D & E --> F[Document Assembly]
-    F --> G[Export / Print]
-```
 
 **Key Challenges Solved**
 - Early versions used `contentEditable` for inline document editing, which caused unreliable state and cursor behavior — rebuilt around React-controlled `useState` per field for predictable, testable editing.
