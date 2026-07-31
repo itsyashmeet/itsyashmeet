@@ -315,18 +315,6 @@ Expand platform coverage as Trio onboards new marketplaces, and align its docume
 <h1>Stack &amp; Tooling</h1>
 </div>
 
-**Current Tech Stack — at a glance**
-
-| Layer | Tools |
-|---|---|
-| **Frontend** | Next.js 16 · React 19 · TypeScript |
-| **Backend** | Node.js · Supabase |
-| **Database** | PostgreSQL |
-| **AI** | OpenAI · Gemini |
-| **Deployment** | Vercel |
-
-<br/>
-
 <div align="center">
 
 **FRONTEND**
@@ -357,26 +345,6 @@ Expand platform coverage as Trio onboards new marketplaces, and align its docume
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0D1117&height=4&width=100%" width="100%"/>
-<br/><br/>
-
-<div align="center">
-<sub>AI ENGINEERING</sub>
-<h1>How I Build With AI</h1>
-</div>
-
-AI is a core part of Trio AI Listing and increasingly part of TrioOS, so I treat it as an engineering discipline, not a black box.
-
-- **Prompt Engineering** — templated prompts per content type (title vs. bullets vs. description), tuned against marketplace character-limit and formatting rules.
-- **Structured Outputs** — requesting JSON-shaped responses from both providers so generated content maps directly into listing fields, with no manual reformatting step.
-- **Gemini Integration** — used as a generation backend for listing content, swappable behind a common interface.
-- **OpenAI Integration** — primary provider for structured listing generation.
-- **AI Workflow Design** — attribute input → prompt build → provider call → structured parse → validation → ready-for-upload output.
-- **Marketplace Listing Generation** — bulk generation across SKUs and catalogs rather than one-at-a-time content writing.
-- **AI Quality Validation** — a validation layer checks generated output against format and constraint rules before it's considered usable, rather than trusting the model output as final.
-- **AI Content Optimization** — iterating prompts based on which generated listings actually needed manual correction, closing the loop between output quality and prompt design.
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:8B5CF6&height=4&width=100%" width="100%"/>
 <br/><br/>
 
 <div align="center">
